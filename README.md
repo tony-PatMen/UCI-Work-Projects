@@ -1,5 +1,29 @@
 # UCI-VIRT-FSF-PT-06-2022-U-LOLC
 
+## Class Schedule
+
+Class will meet Monday, Tuesday, and Thursdays from 6:30 pm PST - 9:30 pm PST.  Class will be adjusted for holidays and can be found in Canvas.
+
+Office Hours will be the occur before and after every class:
+
+5:45 pm PST - 6:30 pm PST
+
+9:30 pm PST - 10:00 pm PST
+
+## Staff
+
+Chris Shoe - Instructor
+
+David Cox - TA
+
+Jose Perez, Jr. - TA
+
+Kamyar Mivehchi - TA
+
+Kevin Sun - Student Success Manager
+
+## Overview
+
 Welcome to the Full-Stack Boot Camp! Some of the most important factors that influence how well and how quickly you learn something are not only how you structure and sequence your learning, but also how you stay motivated and curious about the material, and how you leverage your prior knowledge to build new knowledge you can apply in different situations. 
 
 Learning how to become a web developer is not easy. It will take a lot of internal drive and outside support. To make that journey a bit easier, the course curriculum is structured and sequenced to keep motivation high and connections between concepts clear. 
