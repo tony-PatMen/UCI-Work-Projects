@@ -78,4 +78,10 @@ footer {
   .sample-img {
     background-color: #8ac4ff;
   }
+
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
 }
